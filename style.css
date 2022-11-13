@@ -1,1 +1,97 @@
  
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap");
+
+body {
+  padding: 3em 1em;
+  background-color: hsl(204, 43%, 93%);
+  font-family: "Karla", sans-serif;
+  font-size: 16px;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h2,
+h3 {
+  font-size: inherit;
+}
+.grid_container {
+  box-shadow: 0 0 20px #0003;
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-columns: 1fr;
+  grid-template-areas:
+    "header"
+    "block1"
+    "block2";
+}
+.grid_container > div {
+  padding: 1em;
+}
+.st {
+  grid-area: header;
+  background-color: #fff;
+  border-top-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+}
+.st h1 {
+  font-size: 20px;
+  color: hsl(179, 62%, 43%);
+  margin-bottom: 1.2em;
+}
+.st h2 {
+  color: hsl(71, 73%, 54%);
+}
+.st p {
+  color: hsl(218, 22%, 67%);
+  line-height: 1.5;
+}
+.nd {
+  grid-area: block1;
+  background-color: #2bb3b1;
+}
+.nd > div > span:first-child {
+  font-size: 28px;
+  font-weight: bold;
+  margin-right: -0.5rem;
+}
+.nd > div > span:last-child {
+  color: #76e4e5;
+}
+.nd p {
+  margin-top: 0.4rem;
+  margin-bottom: 1.5rem;
+}
+.nd .sign_up {
+  display: block;
+  width: 100%;
+  padding: 1em;
+  border: none;
+  background-color: hsl(71, 73%, 54%);
+  color: #fff;
+  font-weight: bold;
+  border-radius: 0.5em;
+  box-shadow: 0 0 15px #0003;
+  margin-bottom: 1em;
+}
+.rd {
+  grid-area: block2;
+  background-color: #4abebd;
+}
+.rd ul {
+  padding: 0;
+}
+.rd ul li {
+  list-style: none;
+  line-height: 1.3em;
+}
+@media screen and (min-width: 992px) {
+  .grid_container {
+    width: 768px;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+      "header header"
+      "block1 block2";
+  }
+}
