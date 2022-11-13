@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/bit-01/single-price-grid-component)
-- Live Site URL: [Add live site URL here](https://bit-01.github.com/single-price-grid-component)
+- Solution URL: [Add solution URL here](https://gitlab.com/bit-01/single-price-grid-component)
+- Live Site URL: [Add live site URL here](https://bit-01.gitlab.com/single-price-grid-component)
 
 ## My process
 
@@ -45,10 +45,6 @@ Users should be able to:
 - Mobile-first workflow
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 - Website - [Bassel Aflak](https://bit01.rf.gd)
 - Frontend Mentor - [@bit-01](https://www.frontendmentor.io/profile/bibt-01)
