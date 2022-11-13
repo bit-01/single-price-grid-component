@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://gitlab.com/bit-01/single-price-grid-component)
-- Live Site URL: [Live Site](https://bit-01.gitlab.com/single-price-grid-component)
+- Live Site URL: [Live Site](https://bit-01.gitlab.io/single-price-grid-component)
 
 ## My process
 
@@ -49,6 +49,6 @@ Users should be able to:
 - Website - [Bassel Aflak](https://bit01.rf.gd)
 - Frontend Mentor - [@bit-01](https://www.frontendmentor.io/profile/bibt-01)
 - Gitlab - [@bit-01](https://gitlab.com/bit-01)
-- Github - [@bit-01] (https://github.com/bit-01)
+- Github - [@bit-01](https://github.com/bit-01)
 - Instagram - [@bit_01](https://instagram.com/bit_01)
 - Codepen - [@bit-01](https://codepen.io/bit-01)
