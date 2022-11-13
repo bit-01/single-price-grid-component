@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://gitlab.com/bit-01/single-price-grid-component)
-- Live Site URL: [Add live site URL here](https://bit-01.gitlab.com/single-price-grid-component)
+- Solution URL: [Solution](https://gitlab.com/bit-01/single-price-grid-component)
+- Live Site URL: [Live Site](https://bit-01.gitlab.com/single-price-grid-component)
 
 ## My process
 
